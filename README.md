@@ -22,3 +22,6 @@ https://github.com/codexu/note-gen
 # AI tools
 * Spec-Driven Development with AI   
 https://github.com/github/spec-kit
+
+* LLM应用合集
+https://github.com/Shubhamsaboo/awesome-llm-apps

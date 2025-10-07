@@ -25,3 +25,7 @@ https://github.com/github/spec-kit
 
 * LLM应用合集
 https://github.com/Shubhamsaboo/awesome-llm-apps
+
+# 学习
+* 从零开始开发一个项目。  
+https://github.com/codecrafters-io/build-your-own-x

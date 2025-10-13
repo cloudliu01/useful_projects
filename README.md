@@ -19,19 +19,23 @@ https://github.com/opendatalab/MinerU
 * NoteGen is a cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.  
 https://github.com/codexu/note-gen  
 
-# AI tools
+# AI tools  
 * Spec-Driven Development with AI   
 https://github.com/github/spec-kit
 
-* LLM应用合集
+* LLM应用合集  
 https://github.com/Shubhamsaboo/awesome-llm-apps
 
-* Agents 合集
+* Agents 合集  
 https://github.com/ashishpatel26/500-AI-Agents-Projects
 
-* Agentic Design Patterns  
+* Agentic Design Patterns   
 https://github.com/ginobefun/agentic-design-patterns-cn  
 
 # 学习
 * 从零开始开发一个项目。  
 https://github.com/codecrafters-io/build-your-own-x
+
+# 其它  
+* 新闻聚合
+https://github.com/ourongxing/newsnow  

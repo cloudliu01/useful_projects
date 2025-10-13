@@ -29,6 +29,9 @@ https://github.com/Shubhamsaboo/awesome-llm-apps
 * Agents 合集
 https://github.com/ashishpatel26/500-AI-Agents-Projects
 
+# Agentic Design Patterns  
+https://github.com/ginobefun/agentic-design-patterns-cn  
+
 # 学习
 * 从零开始开发一个项目。  
 https://github.com/codecrafters-io/build-your-own-x

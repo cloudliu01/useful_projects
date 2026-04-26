@@ -33,7 +33,14 @@ https://github.com/Shubhamsaboo/awesome-llm-apps
 https://github.com/ashishpatel26/500-AI-Agents-Projects
 
 * Agentic Design Patterns   
-https://github.com/ginobefun/agentic-design-patterns-cn  
+https://github.com/ginobefun/agentic-design-patterns-cn
+
+* AI做网页
+https://github.com/VoltAgent/awesome-design-md
+
+* AI规划编程
+https://github.com/obra/superpowers
+
 
 # 学习
 * 从零开始开发一个项目。  

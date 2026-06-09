@@ -20,7 +20,7 @@ https://github.com/Arcadia-1/virtuoso-bridge-lite/tree/main
 https://github.com/deanyou/virtuoso-cli
 
 # License management
-* dump license usage through lmstat 
+* dump license usage through lmstat   
 https://github.com/mjtrangoni/flexlm_exporter/tree/main
 
 # Audio  

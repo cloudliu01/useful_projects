@@ -17,7 +17,11 @@ https://github.com/si-view/via
 https://github.com/Arcadia-1/virtuoso-bridge-lite/tree/main
 
 * Virtuos CLI
-https://github.com/deanyou/virtuoso-cli  
+https://github.com/deanyou/virtuoso-cli
+
+# License management
+* dump license usage through lmstat 
+https://github.com/mjtrangoni/flexlm_exporter/tree/main
 
 # Audio  
 * 可完全本地化的，面向企业、学校与机关等内网环境的本地优先语音转写与协作平台：支持实时转写、说话人分离、高质量批处理、AI 总结与标题生成。默认提供浏览器 WebRTC 接入与 SSE 实时返回，也支持边缘设备/硬件作为前端，架构解耦、可替换任意采集与传输方案；数据全程留在本地，重视隐私与合规。  

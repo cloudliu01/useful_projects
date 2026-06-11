@@ -60,4 +60,7 @@ https://github.com/codecrafters-io/build-your-own-x
 
 # 其它  
 * 新闻聚合
-https://github.com/ourongxing/newsnow  
+https://github.com/ourongxing/newsnow
+
+* 炒股  
+https://github.com/muxuuu/serenity-skill/tree/main

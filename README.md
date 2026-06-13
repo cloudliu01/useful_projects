@@ -48,8 +48,8 @@ https://github.com/ashishpatel26/500-AI-Agents-Projects
 https://github.com/ginobefun/agentic-design-patterns-cn
 
 * AI做网页
-https://github.com/VoltAgent/awesome-design-md
-https://github.com/nexu-io/open-design
+https://github.com/VoltAgent/awesome-design-md。
+https://github.com/nexu-io/open-design  
 
 * AI规划编程
 https://github.com/obra/superpowers
